@@ -1,122 +1,88 @@
 <div align="center">
 
-# 🌐 𝗠𝗔𝗠𝗨𝗡 | 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟯
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code">
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_ULTIMATE_CYBER_SPACE_•_WELCOME-000000?style=for-the-badge&logoColor=00F7FF&color=05070b">
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/MAMUN-GOAT-BOT"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"></a>
-  <a href="https://www.facebook.com/profile.php?id=61591350887837"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://t.me/mamun7586"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://wa.me/8801830981279"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://youtu.be/_Qb7Pq0Xavs"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
+  <p>
+    <a href="https://github.com/MAMUN-GOAT-BOT">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61591350887837">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://t.me/mamun7586">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://wa.me/8801830981279">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+    <a href="https://youtu.be/_Qb7Pq0Xavs">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+  </p>
 </div>
 
 ---
 
-<div align="center">
+### 👨‍💻 About Me
 
-# 👑 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+<table align="center">
+<tr>
+  <td width="50%">
+    <pre>
+<b>NAME     :</b> MAMUN
+<b>LOCATION :</b> KHULNA, BANGLADESH
+<b>AGE      :</b> 20+
+<b>PHONE    :</b> 01830981279
+<b>LEARNING :</b> JavaScript & Node.js
+<b>PROJECT  :</b> Goat Bot V3
+<b>HOBBY    :</b> Coding • Gaming • Music 🎵
+    </pre>
+  </td>
+  <td width="50%" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAMUN-GOAT-BOT&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
+  </td>
+</tr>
+</table>
 
-<br>
+---
+
+### ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💎_OFFICIAL_PROFILE_•_GOAT_BOT_V3_CREATOR-05070b?style=for-the-badge&logoColor=ff007f&color=000000">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,vscode,npm,html,css" />
 </p>
 
-<br>
+---
 
-| 💫 Profile Metric | 🚀 Specification |
-| :--- | :--- |
-| 👤 **NAME** | `MAMUN` |
-| 📍 **LOCATION** | `KHULNA` |
-| 🎂 **AGE** | `20+` |
-| 📱 **PHONE** | `01830981279` |
-| 💻 **LEARNING** | `JavaScript & Node.js` |
-| 🤖 **BOT** | `Goat Bot V3` |
-| 🎵 **HOBBY** | `Coding • Gaming • Music` |
+### 📊 GitHub Analytics
 
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MAMUN-GOAT-BOT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAMUN-GOAT-BOT&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MAMUN-GOAT-BOT&label=PROFILE+VIEWS&color=654ea3&style=for-the-badge"/>
+</p>
+
+---
+
+### 🎥 Featured Tutorial
+
+<p align="center">
+  <a href="https://youtu.be/_Qb7Pq0Xavs">
+    <img src="https://img.youtube.com/vi/_Qb7Pq0Xavs/maxresdefault.jpg" width="650" alt="Tutorial Video" style="border-radius: 12px;"/>
+  </a>
+</p>
+<p align="center">
+  <b>▶️ Click above to watch the full video guide!</b>
+</p>
 
 ---
 
 <div align="center">
-
-# ⚡ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🛠️_ADVANCED_DEVELOPMENT_ECOSYSTEM-05070b?style=for-the-badge&logoColor=00ff66&color=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-# 🎥 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗩𝗜𝗗𝗘𝗢
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📺_MASTERCLASS_•_WATCH_TUTORIAL-05070b?style=for-the-badge&logoColor=ffcc00&color=000000">
-</p>
-
-<br>
-
-<a href="https://youtu.be/_Qb7Pq0Xavs">
-<img src="https://img.youtube.com/vi/_Qb7Pq0Xavs/maxresdefault.jpg" width="700" alt="Goat Bot Tutorial">
-</a>
-
-<br><br>
-
-### ▶️ Click The Image Above To Watch The Full Tutorial
-
-</div>
-
----
-
-<div align="center">
-
-# 🌍 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤝_ESTABLISH_CONNECTION_•_SOCIALS-05070b?style=for-the-badge&logoColor=00f7ff&color=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/MAMUN-GOAT-BOT"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"></a>
-  <a href="https://www.facebook.com/profile.php?id=61591350887837"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://t.me/mamun7586"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://wa.me/8801830981279"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://youtu.be/_Qb7Pq0Xavs"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
+  <h3>💙 Thanks For Visiting My Profile</h3>
+  <p>⭐ If you like my projects, don't forget to leave a Star!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=120&section=footer"/>
 </div>
