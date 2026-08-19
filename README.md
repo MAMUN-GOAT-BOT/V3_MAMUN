@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Welcome+To+My+GitHub;💻+Goat+Bot+V3+Developer;⚡+JavaScript+%26+Node.js;❤️+Thanks+For+Visiting+My+Profile">
 
-<p>
+<br><br>
 
 <a href="https://github.com/MAMUN-GOAT-BOT">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -26,127 +26,156 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-</p>
-
 </div>
-
----
-
-# 👨‍💻 About Me
-
-```
-𝗡𝗔𝗠𝗘       : 𝗠𝗔𝗠𝗨𝗡
-𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡   : 𝗞𝗛𝗨𝗟𝗡𝗔,
-𝗔𝗚𝗘        : 𝟮𝟬+
-𝗣𝗛𝗢𝗡𝗘      : 𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵
-𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚   : 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 & 𝗡𝗼𝗱𝗲.𝗷𝘀
-𝗕𝗢𝗧        : 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯
-𝗛𝗢𝗕𝗕𝗬      : 𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵
-```
----
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,npm"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MAMUN-GOAT-BOT&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MAMUN-GOAT-BOT&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAMUN-GOAT-BOT&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MAMUN-GOAT-BOT&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-
-</p>
-
----
-
-# 🎥 Tutorial Video
-
-<p align="center">
-
-<a href="https://youtu.be/_Qb7Pq0Xavs">
-<img src="https://img.youtube.com/vi/_Qb7Pq0Xavs/maxresdefault.jpg" width="700" alt="Tutorial Video"/>
-</a>
-
-</p>
-
-<p align="center">
-
-### ▶️ Click the image above to watch the full tutorial on YouTube.
-
-</p>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/MAMUN-GOAT-BOT">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61591350887837">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://t.me/mamun7586">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/8801830981279">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://youtu.be/_Qb7Pq0Xavs">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-## 💙 Thanks For Visiting My Profile
+# 👨‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-### ⭐ If you like my projects, don't forget to leave a Star!
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<table align="center">
+
+<tr>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/👤-𝗡𝗔𝗠𝗘-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝗠𝗔𝗠𝗨𝗡</b>
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📍-𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝗞𝗛𝗨𝗟𝗡𝗔</b>
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🎂-𝗔𝗚𝗘-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝟮𝟬+</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/📱-𝗣𝗛𝗢𝗡𝗘-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/💻-𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 &amp; 𝗡𝗼𝗱𝗲.𝗷𝘀</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/🤖-𝗕𝗢𝗧-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="3">
+<img src="https://img.shields.io/badge/🎵-𝗛𝗢𝗕𝗕𝗬-00F7FF?style=for-the-badge">
+<br><br>
+<b>𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵</b>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,npm">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Node.js-Developer-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎥 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗩𝗜𝗗𝗘𝗢
+
+<br>
+
+<a href="https://youtu.be/_Qb7Pq0Xavs">
+
+<img src="https://img.youtube.com/vi/_Qb7Pq0Xavs/maxresdefault.jpg" width="700" alt="Goat Bot V3 Tutorial">
+
+</a>
+
+<br><br>
+
+### ▶️ Click the image above to watch the full tutorial on YouTube.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌍 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
+
+<br>
+
+<a href="https://github.com/MAMUN-GOAT-BOT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61591350887837">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://t.me/mamun7586">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://wa.me/8801830981279">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://youtu.be/_Qb7Pq0Xavs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗩𝗜𝗦𝗜𝗧𝗜𝗡𝗚 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+
+### ⭐ 𝗜𝗳 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀, 𝗱𝗼𝗻'𝘁 𝗳𝗼𝗿𝗴𝗲𝘁 𝘁𝗼 𝗹𝗲𝗮𝘃𝗲 𝗮 𝗦𝘁𝗮𝗿!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer">
 
 </div>
