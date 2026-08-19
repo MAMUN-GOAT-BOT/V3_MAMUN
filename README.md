@@ -2,6 +2,8 @@
 
 # 🌐 𝗠𝗔𝗠𝗨𝗡 | 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟯
 
+> **"Welcome to my official GitHub profile repository"**
+
 <br>
 
 <p align="center">
@@ -18,12 +20,14 @@
 
 <div align="center">
 
-# 🔮 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+# 👑 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+
+> **"Passionate developer and creator of Goat Bot V3"**
 
 <br>
 
-| Info | Details |
-| :---: | :---: |
+| 💎 Profile Field | ✨ Details |
+| :--- | :--- |
 | 👤 **NAME** | `MAMUN` |
 | 📍 **LOCATION** | `KHULNA` |
 | 🎂 **AGE** | `20+` |
@@ -39,6 +43,8 @@
 <div align="center">
 
 # ⚡ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+
+> **"Tools & Technologies I use to build projects"**
 
 <br>
 
@@ -61,6 +67,8 @@
 
 # 🎥 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗩𝗜𝗗𝗘𝗢
 
+> **"Watch the complete guide and tutorial below"**
+
 <br>
 
 <a href="https://youtu.be/_Qb7Pq0Xavs">
@@ -78,6 +86,8 @@
 <div align="center">
 
 # 🌍 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
+
+> **"Feel free to reach out to me anytime!"**
 
 <br>
 
