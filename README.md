@@ -46,7 +46,7 @@
 
 <br>
 
-**𝗠𝗔𝗠𝗨𝗡**
+## 𝗠𝗔𝗠𝗨𝗡
 
 </td>
 
@@ -56,7 +56,7 @@
 
 <br>
 
-**𝗞𝗛𝗨𝗟𝗡𝗔**
+## 𝗞𝗛𝗨𝗟𝗡𝗔
 
 </td>
 
@@ -70,7 +70,7 @@
 
 <br>
 
-**𝟮𝟬+**
+## 𝟮𝟬+
 
 </td>
 
@@ -80,7 +80,7 @@
 
 <br>
 
-**𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵**
+## 𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵
 
 </td>
 
@@ -94,7 +94,7 @@
 
 <br>
 
-**𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 &amp; 𝗡𝗼𝗱𝗲.𝗷𝘀**
+## 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 &amp; 𝗡𝗼𝗱𝗲.𝗷𝘀
 
 </td>
 
@@ -104,7 +104,7 @@
 
 <br>
 
-**𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯**
+## 𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯
 
 </td>
 
@@ -118,7 +118,7 @@
 
 <br>
 
-**𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵**
+## 𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵
 
 </td>
 
@@ -164,7 +164,7 @@
 
 <br><br>
 
-### ▶️ Click the image above to watch the full tutorial on YouTube.
+### ▶️ Click The Image Above To Watch The Full Tutorial
 
 </div>
 
@@ -193,21 +193,4 @@
 </a>
 
 <a href="https://youtu.be/_Qb7Pq0Xavs">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥 𝗩𝗜𝗦𝗜𝗧𝗜𝗡𝗚 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
-
-### ⭐ 𝗜𝗳 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀, 𝗱𝗼𝗻'𝘁 𝗳𝗼𝗿𝗴𝗲𝘁 𝘁𝗼 𝗹𝗲𝗮𝘃𝗲 𝗮 𝗦𝘁𝗮𝗿!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer">
-
-</div>
+<img src="https://img.shields.io/badge/You
