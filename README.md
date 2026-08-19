@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_WELCOME_TO_MY_CYBER_SPACE-000000?style=for-the-badge&logoColor=00F7FF&color=0d1117">
+  <img src="https://img.shields.io/badge/⚡_ULTIMATE_CYBER_SPACE_•_WELCOME-000000?style=for-the-badge&logoColor=00F7FF&color=05070b">
 </p>
 
 <br>
@@ -29,12 +29,12 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_CREATOR_OF_GOAT_BOT_V3-0d1117?style=for-the-badge&logoColor=ff007f&color=000000">
+  <img src="https://img.shields.io/badge/💎_OFFICIAL_PROFILE_•_GOAT_BOT_V3_CREATOR-05070b?style=for-the-badge&logoColor=ff007f&color=000000">
 </p>
 
 <br>
 
-| 💎 Profile Field | ✨ Details |
+| 💫 Profile Metric | 🚀 Specification |
 | :--- | :--- |
 | 👤 **NAME** | `MAMUN` |
 | 📍 **LOCATION** | `KHULNA` |
@@ -55,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_CORE_DEVELOPMENT_TOOLS-0d1117?style=for-the-badge&logoColor=00ff66&color=000000">
+  <img src="https://img.shields.io/badge/🛠️_ADVANCED_DEVELOPMENT_ECOSYSTEM-05070b?style=for-the-badge&logoColor=00ff66&color=000000">
 </p>
 
 <br>
@@ -82,7 +82,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📺_WATCH_AND_LEARN-0d1117?style=for-the-badge&logoColor=ffcc00&color=000000">
+  <img src="https://img.shields.io/badge/📺_MASTERCLASS_•_WATCH_TUTORIAL-05070b?style=for-the-badge&logoColor=ffcc00&color=000000">
 </p>
 
 <br>
@@ -106,7 +106,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤝_STAY_CONNECTED_WITH_ME-0d1117?style=for-the-badge&logoColor=00f7ff&color=000000">
+  <img src="https://img.shields.io/badge/🤝_ESTABLISH_CONNECTION_•_SOCIALS-05070b?style=for-the-badge&logoColor=00f7ff&color=000000">
 </p>
 
 <br>
