@@ -2,7 +2,11 @@
 
 # 🌐 𝗠𝗔𝗠𝗨𝗡 | 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟯
 
-> **"Welcome to my official GitHub profile repository"**
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_WELCOME_TO_MY_CYBER_SPACE-000000?style=for-the-badge&logoColor=00F7FF&color=0d1117">
+</p>
 
 <br>
 
@@ -22,7 +26,11 @@
 
 # 👑 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-> **"Passionate developer and creator of Goat Bot V3"**
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_CREATOR_OF_GOAT_BOT_V3-0d1117?style=for-the-badge&logoColor=ff007f&color=000000">
+</p>
 
 <br>
 
@@ -44,7 +52,11 @@
 
 # ⚡ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
 
-> **"Tools & Technologies I use to build projects"**
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_CORE_DEVELOPMENT_TOOLS-0d1117?style=for-the-badge&logoColor=00ff66&color=000000">
+</p>
 
 <br>
 
@@ -67,7 +79,11 @@
 
 # 🎥 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 𝗩𝗜𝗗𝗘𝗢
 
-> **"Watch the complete guide and tutorial below"**
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📺_WATCH_AND_LEARN-0d1117?style=for-the-badge&logoColor=ffcc00&color=000000">
+</p>
 
 <br>
 
@@ -87,7 +103,11 @@
 
 # 🌍 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
 
-> **"Feel free to reach out to me anytime!"**
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝_STAY_CONNECTED_WITH_ME-0d1117?style=for-the-badge&logoColor=00f7ff&color=000000">
+</p>
 
 <br>
 
