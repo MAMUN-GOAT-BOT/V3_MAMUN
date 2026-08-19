@@ -2,7 +2,7 @@
 
 # 🌐 𝗠𝗔𝗠𝗨𝗡 | 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟯
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Welcome+To+My+GitHub;💻+Goat+Bot+V3+Developer;⚡+JavaScript+%26+Node.js;❤️+Thanks+For+Visiting+My+Profile">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Welcome+To+My+GitHub;💻+Goat+Bot+V3+Developer;⚡+JavaScript+%26+Node.js;🤖+Messenger+Bot+Developer;❤️+Thanks+For+Visiting+My+Profile">
 
 <br><br>
 
@@ -36,26 +36,28 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/👤-𝗡𝗔𝗠𝗘-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝗠𝗔𝗠𝗨𝗡</b>
+<td align="center" width="50%">
+
+### 👤 𝗡𝗔𝗠𝗘
+
+<br>
+
+**𝗠𝗔𝗠𝗨𝗡**
+
 </td>
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📍-𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝗞𝗛𝗨𝗟𝗡𝗔</b>
-</td>
+<td align="center" width="50%">
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🎂-𝗔𝗚𝗘-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝟮𝟬+</b>
+### 📍 𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡
+
+<br>
+
+**𝗞𝗛𝗨𝗟𝗡𝗔**
+
 </td>
 
 </tr>
@@ -63,31 +65,61 @@
 <tr>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📱-𝗣𝗛𝗢𝗡𝗘-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵</b>
+
+### 🎂 𝗔𝗚𝗘
+
+<br>
+
+**𝟮𝟬+**
+
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/💻-𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 &amp; 𝗡𝗼𝗱𝗲.𝗷𝘀</b>
-</td>
 
-<td align="center">
-<img src="https://img.shields.io/badge/🤖-𝗕𝗢𝗧-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯</b>
+### 📱 𝗣𝗛𝗢𝗡𝗘
+
+<br>
+
+**𝟬𝟭𝟴𝟯𝟬𝟵𝟴𝟭𝟮𝟳𝟵**
+
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" colspan="3">
-<img src="https://img.shields.io/badge/🎵-𝗛𝗢𝗕𝗕𝗬-00F7FF?style=for-the-badge">
-<br><br>
-<b>𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵</b>
+<td align="center">
+
+### 💻 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
+
+<br>
+
+**𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 &amp; 𝗡𝗼𝗱𝗲.𝗷𝘀**
+
+</td>
+
+<td align="center">
+
+### 🤖 𝗕𝗢𝗧
+
+<br>
+
+**𝗚𝗼𝗮𝘁 𝗕𝗼𝘁 𝗩𝟯**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="2">
+
+### 🎵 𝗛𝗢𝗕𝗕𝗬
+
+<br>
+
+**𝗖𝗼𝗱𝗶𝗻𝗴 • 𝗚𝗮𝗺𝗶𝗻𝗴 • 𝗠𝘂𝘀𝗶𝗰 🎵**
+
 </td>
 
 </tr>
