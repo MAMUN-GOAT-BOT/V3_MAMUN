@@ -80,6 +80,28 @@
 
 ---
 
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MAMUN-GOAT-BOT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61591350887837">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://t.me/mamun7586">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/8801830981279">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://youtu.be/_Qb7Pq0Xavs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
   <h3>💙 Thanks For Visiting My Profile</h3>
   <p>⭐ If you like my projects, don't forget to leave a Star!</p>
