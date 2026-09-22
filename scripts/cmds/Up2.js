@@ -10,7 +10,7 @@ module.exports = {
     name: "up2",
     aliases: [],
     version: "2.1",
-    author: "Mamun",
+    author: "MAMUN",
     countDown: 5,
     role: 0,
     shortDescription: "Mamun Bot Dashboard",
@@ -312,4 +312,4 @@ function formatUptime(seconds) {
   const m = Math.floor((seconds % 3600) / 60);
   const s = Math.floor(seconds % 60);
   return `${d}d ${h}h ${m}m ${s}s`;
-}
+    }
