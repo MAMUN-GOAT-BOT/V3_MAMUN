@@ -14,8 +14,8 @@ const CONFIG = {
 
   API_URL: "https://hridoy-api.vercel.app",
 
-  ADMIN_USER: process.env.GOATSTORE_ADMIN_USER || LOCAL_CFG.ADMIN_USER || "hridoyhossen049",
-  ADMIN_PASS: process.env.GOATSTORE_ADMIN_PASS || LOCAL_CFG.ADMIN_PASS || "hridoy8nishat",
+  ADMIN_USER: process.env.GOATSTORE_ADMIN_USER || LOCAL_CFG.ADMIN_USER || "",
+  ADMIN_PASS: process.env.GOATSTORE_ADMIN_PASS || LOCAL_CFG.ADMIN_PASS || "",
 
   UPDATE_CHECK_INTERVAL: 1000 * 60 * 30,
 
