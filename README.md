@@ -21,7 +21,7 @@
     </a>
   </p>
 
-  <h3>⚡ ᴄᴏᴅᴇ • ᴄʀᴇᴀᴛᴇ • ɪɴɴᴏᴠᴀᴛᴇ ⚡</h3>
+  <h3>⚡ ᴄᴏᴅᴇ • ᴄʀᴇᴀᴛᴇ •  ⚡</h3>
 
   <p>
     <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -51,7 +51,7 @@ HOBBY    : Coding • Gaming • Music 🎵
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="images/banner.jpg" width="100%" alt="MAMUN Profile Banner"/>
+<img src="https://i.imgur.com/mCYcuwz.jpeg" width="100%" alt="MAMUN Profile Banner"/>
 
 <h3>💙 ᴍᴀᴍᴜɴ</h3>
 <samp>GOAT BOT V3 DEVELOPER</samp>
