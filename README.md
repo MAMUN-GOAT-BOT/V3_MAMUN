@@ -6,7 +6,7 @@
     <a href="https://github.com/MAMUN-GOAT-BOT">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://www.facebook.com/profile.php?id=61593818074328">
+    <a href="https://www.facebook.com/xdi404">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://t.me/mamun7586">
@@ -29,14 +29,13 @@
 <tr>
   <td width="50%">
     <pre>
-<b>NAME     :</b> MAMUN
-<b>LOCATION :</b> KHULNA, BANGLADESH
-<b>AGE      :</b> 20+
-<b>PHONE    :</b> 01830981279
-<b>LEARNING :</b> JavaScript & Node.js
-<b>PROJECT  :</b> Goat Bot V3
-<b>HOBBY    :</b> Coding • Gaming • Music 🎵
-    </pre>
+<b>ɴᴀᴍᴇ     :</b> ᴍᴀᴍᴜɴ
+<b>ʟᴏᴄᴀᴛɪᴏɴ :</b> ᴋʜᴜʟɴᴀ, ʙᴀɴɢʟᴀᴅᴇꜱʜ
+<b>ᴀɢᴇ      :</b> 20+
+<b>ᴘʜᴏɴᴇ    :</b> 01830981279
+<b>ʟᴇᴀʀɴɪɴɢ :</b> ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ & ɴᴏᴅᴇ.ᴊꜱ
+<b>ᴘʀᴏᴊᴇᴄᴛ  :</b> ɢᴏᴀᴛ ʙᴏᴛ ᴠ3
+<b>ʜᴏʙʙʏ    :</b> ᴄᴏᴅɪɴɢ • ɢᴀᴍɪɴɢ • ᴍᴜꜱɪᴄ 🎵    </pre>
   </td>
   <td width="50%" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAMUN-GOAT-BOT&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
@@ -86,7 +85,7 @@
   <a href="https://github.com/MAMUN-GOAT-BOT">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61591350887837">
+  <a href="https://www.facebook.com/xdi404">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://t.me/mamun7586">
