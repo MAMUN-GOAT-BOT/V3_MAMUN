@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text= MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:243B80,100:654EA3&height=180&section=header&text=MAMUN%20%7C%20GOAT%20BOT%20V3&fontSize=36&fontColor=EAF6FF&fontAlignY=38&animation=fadeIn&font=Orbitron" width="100%" />
   <p>
     <a href="https://github.com/MAMUN-GOAT-BOT">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
