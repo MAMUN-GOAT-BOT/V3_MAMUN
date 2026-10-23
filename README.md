@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- MAMUN BLUE NEON BANNER -->
-  <img src="images/banner.jpg" width="100%" alt="MAMUN Banner"/>
+  <img src="https://i.imgur.com/mCYcuwz.jpeg" width="100%" alt="MAMUN Banner"/>
 
   <p>
     <a href="https://github.com/MAMUN-GOAT-BOT">
