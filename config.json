@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "𝗧𝗠 ^〲𝗠𝗔𝗠𝗨𝗡ツ࿐ ⁰⁰⁷",
+  "nickNameBot": "ᴘᴏᴏᴋɪᴇ 🌚🎀",
   "prefix": "-",
   "noPrefix": {
     "enable": true,
@@ -23,8 +23,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61594650721376",
-    "61593818074328",
+    "61595489399118",
+    "61595057655929",
     ""
   ],
   "reactUnsend": {
@@ -32,15 +32,16 @@
     "onlyAdmin": true,
     "emojis": [
       "😡",
-      "🤬"
+      "🤬",
+      "Ⓜ️"
     ],
     "notes": "If enable = true, bot will unsend any message reacted with these emojis. If onlyAdmin = true, only adminBot IDs can trigger it."
   },
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61594650721376",
-      "61593818074328"
+      "61595489399118",
+      "61595057655929"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
