@@ -101,7 +101,8 @@
 ---
 
 <div align="center">
-  <h3>💙 Thanks For Visiting My Profile</h3>
-  <p>⭐ If you like my projects, don't forget to leave a Star!</p>
+  <h3>💙 ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ ✨</h3>
+  <p>⭐ ɪꜰ ʏᴏᴜ ʟɪᴋᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ, ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʟᴇᴀᴠᴇ ᴀ ꜱᴛᴀʀ! 💫</p>
+</div>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20%7C%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code" width="100%" />
