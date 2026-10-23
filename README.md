@@ -105,4 +105,4 @@
   <h3>💙 Thanks For Visiting My Profile</h3>
   <p>⭐ If you like my projects, don't forget to leave a Star!</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code",
