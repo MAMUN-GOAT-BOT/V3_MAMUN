@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://wa.me/8801830981279">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badgke/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://youtu.be/_Qb7Pq0Xavs">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -105,4 +105,4 @@
   <h3>💙 Thanks For Visiting My Profile</h3>
   <p>⭐ If you like my projects, don't forget to leave a Star!</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:654ea3,100:eaafc9&height=180&section=header&text=MAMUN%20|%20GOAT%20BOT%20V3&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&font=Fira+Code"
